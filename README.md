@@ -13,15 +13,15 @@
   
 </div>
 
-<img src="https://media.tenor.com/7F2Fbz3LvegAAAAi/hello-there-text.gif" align="left" style="width: 70%" >
-
-
-<br>
-<br>
-
 <div align="left">
 
-<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" style="width: 10%" >
+
+
+<br>
+
+<div>
+
+<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" style="width: 20%" >
   
 <br>
   
@@ -31,16 +31,16 @@
 
 <br>
 
-### ❝ 협업과 소통을 사랑하는 백엔드 개발자 ❞ 박이령입니다 🥰
+### ❝ 협업과 소통을 사랑하는 백엔드 개발자 ❞ 
+
+### 박이령입니다 🥰
  
 <br>
  
-### 현재 SSAFY 8기(2022.07 ~ )로 열심히 프로젝트 중입니다 🙃
+### 현재 SSAFY 8기(2022.07 ~ ) 교육생으로 
+### 목표를 향해 달려가는 중입니다 🙃
 
-<br>
-
- 
-<br><br><br><br>
+<br><br><br>
 
 
 <div align="left">
