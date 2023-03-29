@@ -13,7 +13,7 @@
   
 </div>
 
-<img src="https://media.tenor.com/7F2Fbz3LvegAAAAi/hello-there-text.gif" align="left" style="width: 60%" >
+<img src="https://media.tenor.com/7F2Fbz3LvegAAAAi/hello-there-text.gif" align="left" style="width: 70%" >
 
 
 <br>
@@ -21,7 +21,7 @@
 
 <div align="left">
 
-<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" align="left" style="width: 10%" >
+<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" style="width: 10%" >
   
 <br>
   
